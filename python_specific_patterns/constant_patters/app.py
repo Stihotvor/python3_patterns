@@ -1,4 +1,4 @@
-from constant_patters.variables import FOO_02_RESULT
+from python_specific_patterns.constant_patters.variables import FOO_02_RESULT
 from tools.time import timing
 
 

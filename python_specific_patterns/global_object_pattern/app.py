@@ -1,6 +1,6 @@
 import re
 
-from global_object_pattern.validators import magic_check
+from python_specific_patterns.global_object_pattern.validators import magic_check
 from tools.time import timing
 
 

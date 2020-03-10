@@ -1,4 +1,4 @@
-from sentinel_object_pattern.pattern_objects import NullObject
+from python_specific_patterns.sentinel_object_pattern.pattern_objects import NullObject
 
 
 def foo(name: str = NullObject):
