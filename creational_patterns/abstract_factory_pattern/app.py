@@ -12,7 +12,7 @@ class AbstractFactory(metaclass=ABCMeta):
         pass
 
 
-class Factory:
+class Factory(AbstractFactory):
     def build_sequence(self):
         return []
 
