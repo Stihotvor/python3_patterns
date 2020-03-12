@@ -1,3 +1,4 @@
+# Widget gives You an ability to safe couple of code lines when we have to provide empty return in numerous classes
 class Widget:
     def children(self):
         return []
